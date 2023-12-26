@@ -1,0 +1,5 @@
+input value
+for i = 1 to value
+{
+	print i
+}

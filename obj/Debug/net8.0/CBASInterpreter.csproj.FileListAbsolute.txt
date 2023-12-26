@@ -1,0 +1,14 @@
+C:\Users\dmitry\Documents\CBASInterpreter\bin\Debug\net8.0\CBASInterpreter.exe
+C:\Users\dmitry\Documents\CBASInterpreter\bin\Debug\net8.0\CBASInterpreter.deps.json
+C:\Users\dmitry\Documents\CBASInterpreter\bin\Debug\net8.0\CBASInterpreter.runtimeconfig.json
+C:\Users\dmitry\Documents\CBASInterpreter\bin\Debug\net8.0\CBASInterpreter.dll
+C:\Users\dmitry\Documents\CBASInterpreter\bin\Debug\net8.0\CBASInterpreter.pdb
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\CBASInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\CBASInterpreter.AssemblyInfoInputs.cache
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\CBASInterpreter.AssemblyInfo.cs
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\CBASInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\CBASInterpreter.dll
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\refint\CBASInterpreter.dll
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\CBASInterpreter.pdb
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\CBASInterpreter.genruntimeconfig.cache
+C:\Users\dmitry\Documents\CBASInterpreter\obj\Debug\net8.0\ref\CBASInterpreter.dll
